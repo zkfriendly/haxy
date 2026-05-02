@@ -5,3 +5,6 @@ zig-pkg
 
 # server data
 server/
+
+# environment variables
+.env
