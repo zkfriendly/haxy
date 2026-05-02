@@ -1,3 +1,7 @@
+# zig build artifacts
 .zig-cache
 zig-out
 zig-pkg
+
+# server data
+server/
